@@ -1,0 +1,225 @@
+@charset "utf-8";
+/* CSS Document */
+.hadder
+{
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    height: 80px;
+    z-index: 10;
+    text-align: center;
+    background-color: rgba(0,0,0,0.70);
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+	position: fixed;
+}
+.logo{
+    float: left;
+    left: 15px;
+    top: 20px;
+    margin-left: 42px;
+    margin-top: 5px;
+}
+.Search{
+    position: absolute;
+    top: 18px;
+    right: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+	
+}
+.name{
+    float: left;
+    color: #FFFFFF;
+    margin-left: 99px;
+    margin-top: 8px;
+    font-family: "宋体";
+}
+.name div{
+    width: 130px;
+    text-align: center;
+    float: left;
+    padding-right: 0px;
+    padding-top: 5px;
+    border-bottom-right-radius: 0px;
+}
+.name a{
+    line-height: 60px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    font-family: "仿宋";
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.name a:hover{
+    font-size: 20px;
+    color: #D0CDB9;
+    font-weight: 200;
+}
+.jie1{
+	width: 1920px;
+	height: 1080px;
+	  margin: auto;
+}
+.jie2{
+	width: 1920px;
+	height: 1080px;
+	  margin: auto;
+}
+.jie3{
+	width: 1920px;
+	height: 1080px;
+	  margin: auto;
+	text-align: center;
+}
+.jie4{
+	width: 1920px;
+	height: 1080px;
+	  margin: auto;
+	text-align: center;
+}
+.oki{
+    width: 1111px;
+    height: 1080px;
+}
+.tui1{
+    top: 198px;
+    position: absolute;
+    padding-left: 100px;
+}
+.tui2{
+    top: 198px;
+    position: absolute;
+    padding-left: 100px;
+	visibility: hidden;
+}
+.tui3{
+    top: 198px;
+    position: absolute;
+    padding-left: 100px;
+	visibility: hidden;
+}
+.annivn{
+    position: absolute;
+    z-index: 5;
+    text-align: center;
+    margin-top: 345px;
+    margin-left: 753px;
+}
+#qwe1{
+    position: absolute;
+    margin-left: -35px;
+    margin-top: 7px;
+
+}
+#qwe2{
+    position: absolute;
+    margin-left: -35px;
+    margin-top: 7px;
+	visibility: hidden;
+}
+#qwe3{
+    position: absolute;
+    margin-left: -35px;
+    margin-top: 7px;
+	visibility: hidden;
+}.zizizi tr td {
+    font-family: "等线";
+    font-size: 20px;
+    line-height: 34px;
+    text-align: left;
+}
+
+
+.poiuy   {
+    margin-left: 115px;
+    padding-top: 0px;
+    margin-bottom: 6px;
+}
+
+
+.popopo {
+    margin-left: 111px;
+    padding-top: 50px;
+}
+.zizizi tr td:hover{
+    color: #66563C;
+}
+.bnbn {
+    margin-left: 112px;
+    margin-top: 48px;
+    margin-bottom: -81px;
+
+
+}
+.jie2 img {
+    min-height: 0px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+
+.kjk tr td {
+    padding-top: 28px;
+
+}
+.bnbn tr td:hover{
+    color: #66563C;
+}
+.gege{
+    margin-left: 170px;
+    font-family: "等线";
+    line-height: 75px;
+    margin-top: 74px;
+    font-size: 20px;
+	
+}
+.ge1{
+    position: absolute;
+    top: 1633px;
+    float: right;
+    padding-left: 932px;
+}
+.ge2{
+    position: absolute;
+    top: 1709px;
+    float: right;
+    margin-left: 728px;
+    padding-left: 932px;
+	
+}
+.ge3{
+    position: absolute;
+    top: 1787px;
+    float: right;
+    margin-left: 728px;
+    padding-left: 932px;
+	
+}
+.gege tbody tr td:hover {
+	  color: #66563C;
+}
+
+.ge4{
+    position: absolute;
+    top: 1859px;
+    float: right;
+    margin-left: 728px;
+    padding-left: 932px;
+	
+}
+.ge5{
+    position: absolute;
+    top: 1939px;
+    float: right;
+    margin-left: 728px;
+    padding-left: 932px;
+	
+}
+body{
+	margin: auto;
+}

@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+.hadder
+{
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    height: 80px;
+    z-index: 10;
+    text-align: center;
+    background-color: rgba(0,0,0,0.70);
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+	position: fixed;
+}
+.logo{
+    float: left;
+    left: 15px;
+    top: 20px;
+    margin-left: 42px;
+    margin-top: 5px;
+}
+.name{
+    float: left;
+    color: #FFFFFF;
+    margin-left: 99px;
+    margin-top: 8px;
+    font-family: "宋体";
+}
+.name div{
+    width: 130px;
+    text-align: center;
+    float: left;
+    padding-right: 0px;
+    padding-top: 5px;
+    border-bottom-right-radius: 0px;
+}
+.name a{
+    line-height: 60px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    font-family: "仿宋";
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.Search{
+    position: absolute;
+    top: 18px;
+    right: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+	
+}
+.name a:hover{
+    font-size: 20px;
+    color: #D0CDB9;
+    font-weight: 200;
+}
+.move{
+    height: 1080px;
+    width: 1920px;
+    margin: auto;
+    position: relative;
+	background-image: url("../img/beijing/bj4.png")
+}
+.move video {
+    padding-top: 97px;
+    float: right;
+    padding-right: 62px;
+}
+.gu{
+	text-align: center;
+	 height: 800px;
+    width: 1920px;
+	margin: auto;
+    position: relative;
+}
+.gu img {
+    /* [disabled]top: 36px; */
+    margin-top: 107px;
+
+}
+.dakuai{
+    height: 1080px;
+    width: 1920px;
+    margin: auto;
+    position: relative;
+    color: #58482C;
+    font-family: "宋体";
+    font-size: 22px;
+    letter-spacing: 3px;
+	text-align: center
+}
+.dakuai a:hover {
+    font-size: 25px;
+}
+#tui2{
+    position: absolute;
+    left: 31px;
+    font-size: 25px;
+    font-weight: 100;
+    color: #000000;	
+	top: 0;
+
+}
+#xin2{
+    position: absolute;
+    left: 206px;
+    font-size: 25px;
+    font-weight: 100;
+    color: #000000;	
+	top: 0;
+	visibility: hidden;
+}
+#chuan2{
+    position: absolute;
+    left: 381px;
+    font-size: 25px;
+    font-weight: 100;
+    color: #000000;	
+	top: 0;
+	visibility: hidden;
+}
+#zhuan2{
+    position: absolute;
+    left: 543px;
+    font-size: 25px;
+    font-weight: 100;
+    color: #000000;	
+	top: 0;
+	visibility: hidden;
+}
+#poi2{
+	position: absolute;
+	top: 82px;
+	left: 0;
+		visibility: hidden;
+}
+#poi3{
+	position: absolute;
+	top: 82px;
+	left: 0;
+		visibility: hidden;
+}
+#poi4{
+	position: absolute;
+	top: 82px;
+	left: 0;
+	visibility: hidden;
+}
+.banner6{
+ 
+    height: 415px;
+    width: 1920px;
+    margin: auto;
+    position: relative;
+}
